@@ -1,0 +1,9 @@
+authenticated.message.form.label.title = Title
+authenticated.message.form.label.creationDate = Creation date
+authenticated.message.form.label.tags = Tags
+authenticated.message.form.label.body = Body
+
+authenticated.message.list.label.title = Title
+authenticated.message.list.label.creationDate = Creation date
+
+authenticated.message.form.button.return = <- Return

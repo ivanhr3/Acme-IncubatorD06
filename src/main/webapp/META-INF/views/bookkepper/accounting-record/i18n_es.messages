@@ -1,0 +1,10 @@
+bookkepper.accountingrecord.list.label.creationDate = Fecha de creación
+bookkepper.accountingrecord.list.label.title = Título
+bookkepper.accountingrecord.list.label.status = Estado
+
+bookkepper.accountingrecord.form.label.creationDate = Fecha de creación
+bookkepper.accountingrecord.form.label.status = Estado
+bookkepper.accountingrecord.form.label.title = Título
+bookkepper.accountingrecord.form.label.body = Cuerpo
+
+bookkepper.accountingrecord.form.button.return = <- Volver

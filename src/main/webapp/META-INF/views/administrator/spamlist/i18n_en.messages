@@ -1,0 +1,16 @@
+administrator.spamlist.list.label.spamwordslist = Spamwords list
+administrator.spamlist.list.label.threshold = Threshold
+
+administrator.spamlist.form.label.spamwordslist = Spamwords list
+administrator.spamlist.form.label.threshold = Threshold
+
+administrator.spamlist.form.label.newSpamwordSpanish = Introduce again the same Spamword in SPANISH
+administrator.spamlist.form.label.newSpamword = Introduce a new Spamword in ENGLISH
+administrator.spamlist.form.label.deleteSpamword = Introduce a Spamword in ENGLISH to delete it.
+
+administrator.spamlist.form.button.update = Update
+administrator.spamlist.form.button.return = Return
+
+administrator.spamlist.form.error.same = You wrote the same Spamword.
+administrator.spamlist.form.error.duplicated = That Spamword exists already.
+administrator.spamlist.form.error.no-exist = That Spamword doesn't exist.

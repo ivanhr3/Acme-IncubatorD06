@@ -1,0 +1,16 @@
+authenticated.investmentround.form.label.ticker = Ticker
+authenticated.investmentround.form.label.creationDate = Fecha de creación
+authenticated.investmentround.form.label.kindOfRound = Tipo de ronda
+authenticated.investmentround.form.label.title = Título
+authenticated.investmentround.form.label.description = Descripción
+authenticated.investmentround.form.label.amount = Cantidad
+authenticated.investmentround.form.label.additionalInfo = Información adicional
+
+authenticated.investmentround.list.label.creationDate = Fecha de creación
+authenticated.investmentround.list.label.title = Título
+authenticated.investmentround.list.label.amount = Cantidad
+
+authenticated.investmentround.form.button.accountingRecord = Registro de contabilidad
+authenticated.investmentround.form.button.workProgramme = Programa de trabajo
+authenticated.investentround.form.button.application = Solicitar/Aplicar
+authenticated.investmentround.form.button.return = <- Volver

@@ -1,0 +1,19 @@
+administrator.inquire.form.label.title = Title
+administrator.inquire.form.label.creationDate = Creation date
+administrator.inquire.form.label.deadline = Deadline
+administrator.inquire.form.label.paragraph = Paragraph
+administrator.inquire.form.label.minimumMoney = Minimum money
+administrator.inquire.form.label.maximumMoney = Maximum money
+administrator.inquire.form.label.email = Email
+
+administrator.inquire.list.label.title = Title
+administrator.inquire.list.label.creationDate = Creation date
+administrator.inquire.list.label.deadline = Deadline
+
+administrator.inquire.form.button.return = Return
+administrator.inquire.form.button.submit = Submit
+administrator.inquire.form.button.delete = Delete
+administrator.inquire.form.button.update = Update
+
+acme.validation.deadline = Must be at least 1 month in future.
+acme.validation.money = Must be greater than 0 and currency must be EUR.

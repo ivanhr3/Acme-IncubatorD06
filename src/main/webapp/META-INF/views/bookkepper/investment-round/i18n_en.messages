@@ -1,0 +1,15 @@
+bookkepper.investmentround.form.label.ticker = Ticker
+bookkepper.investmentround.form.label.creationDate = Creation date
+bookkepper.investmentround.form.label.kindOfRound = Kind of round
+bookkepper.investmentround.form.label.title = Title
+bookkepper.investmentround.form.label.description = Description
+bookkepper.investmentround.form.label.amount = Amount
+bookkepper.investmentround.form.label.additionalInfo = Additional info
+
+bookkepper.investmentround.list.label.creationDate = Creation date
+bookkepper.investmentround.list.label.title = Title
+bookkepper.investmentround.list.label.amount = Amount
+
+bookkepper.investmentround.form.button.accountingRecord = Accounting record
+bookkepper.investmentround.form.button.workProgramme = Work Programme
+bookkepper.investmentround.form.button.return = <- Return

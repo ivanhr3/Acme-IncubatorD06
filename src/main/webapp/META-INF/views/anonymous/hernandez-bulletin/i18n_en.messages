@@ -1,0 +1,12 @@
+anonymous.hernandezbulletin.list.label.name = Name
+anonymous.hernandezbulletin.list.label.surname = Surname
+anonymous.hernandezbulletin.list.label.country = Country
+anonymous.hernandezbulletin.list.label.favouritesinger = Favourite singer
+
+anonymous.hernandezbulletin.form.label.name = Name
+anonymous.hernandezbulletin.form.label.surname = Surname
+anonymous.hernandezbulletin.form.label.country = Country
+anonymous.hernandezbulletin.form.label.favouritesinger = Favourite singer
+
+anonymous.hernandezbulletin.form.button.submit = Create
+anonymous.hernandezbulletin.form.button.return = Return

@@ -1,0 +1,10 @@
+bookkepper.activity.form.label.title = Título
+bookkepper.activity.form.label.start = Empieza en
+bookkepper.activity.form.label.end = Termina en
+bookkepper.activity.form.label.budget = Presupuesto
+
+bookkepper.activity.list.label.title = Título
+bookkepper.activity.list.label.start = Empieza en
+bookkepper.activity.list.label.end = Termina en
+
+bookkepper.activity.form.button.return = <- Volver

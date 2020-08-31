@@ -1,0 +1,10 @@
+authenticated.accountingrecord.list.label.creationDate = Fecha de creación
+authenticated.accountingrecord.list.label.title = Título
+authenticated.accountingrecord.list.label.status = Estado
+
+authenticated.accountingrecord.form.label.creationDate = Fecha de creación
+authenticated.accountingrecord.form.label.status = Estado
+authenticated.accountingrecord.form.label.title = Título
+authenticated.accountingrecord.form.label.body = Cuerpo
+
+authenticated.accountingrecord.form.button.return = <- Volver

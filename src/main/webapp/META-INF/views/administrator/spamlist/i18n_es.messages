@@ -1,0 +1,17 @@
+administrator.spamlist.list.label.spamwordslist = Lista de palabras spam
+administrator.spamlist.list.label.threshold = Umbral
+
+administrator.spamlist.form.label.spamwordslist = Lista de palabras spam
+administrator.spamlist.form.label.threshold = Umbral
+
+administrator.spamlist.form.label.newSpamwordSpanish = Vuelve a introducir la palabra ahora en ESPAÑOL.
+administrator.spamlist.form.label.newSpamword = Introduce una nueva palabra de spam en INGLÉS.
+administrator.spamlist.form.label.deleteSpamword = Introduce una palabra de spam en INGLES para borrarla.
+
+administrator.spamlist.form.button.update = Actualizar
+administrator.spamlist.form.button.return = Volver
+
+
+administrator.spamlist.form.error.same = Escribiste la misma palabra.
+administrator.spamlist.form.error.duplicated = La palabra ya existe.
+administrator.spamlist.form.error.no-exist = La palabra introducida no existe

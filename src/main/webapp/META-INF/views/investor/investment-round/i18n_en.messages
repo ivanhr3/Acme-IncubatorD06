@@ -1,0 +1,28 @@
+investor.investmentround.form.label.ticker = Ticker
+investor.investmentround.form.label.creationDate = Creation date
+investor.investmentround.form.label.oldKindOfRound = Last kind of round
+investor.investmentround.form.label.kindOfRound = Kind of round
+investor.investmentround.form.label.title = Title
+investor.investmentround.form.label.description = Description
+investor.investmentround.form.label.amount = Amount
+investor.investmentround.form.label.additionalInfo = Additional info
+
+investor.investmentround.list.label.creationDate = Creation date
+investor.investmentround.list.label.title = Title
+investor.investmentround.list.label.amount = Amount
+
+investor.investmentround.form.button.accountingRecord = Accounting record
+investor.investmentround.form.button.workProgramme = Work Programme
+investor.investmentround.form.button.delete = Delete
+investor.investmentround.form.button.update = Update
+investor.investmentround.form.button.create = Create
+investor.investmentround.form.button.return = <- Return
+
+
+
+entrepreneur.investmentround.form.label.kindOfRound.seed = Seed
+entrepreneur.investmentround.form.label.kindOfRound.angel = Angel
+entrepreneur.investmentround.form.label.kindOfRound.seriesa = Series-A
+entrepreneur.investmentround.form.label.kindOfRound.seriesb = Series-B
+entrepreneur.investmentround.form.label.kindOfRound.seriesc = Series-C
+entrepreneur.investmentround.form.label.kindOfRound.bridge = Bridge

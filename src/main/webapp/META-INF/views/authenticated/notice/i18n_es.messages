@@ -1,0 +1,12 @@
+authenticated.notice.list.label.title = Título
+authenticated.notice.list.label.creationDate = Fecha de creación
+authenticated.notice.list.label.deadline = Expira en
+
+authenticated.notice.form.label.headerPicture = Imagen del encabezado
+authenticated.notice.form.label.title = Título
+authenticated.notice.form.label.creationDate = Fecha de creación
+authenticated.notice.form.label.deadline = Expira en
+authenticated.notice.form.label.body = Cuerpo
+authenticated.notice.form.label.relatedNotices = Noticias relacionadas
+
+authenticated.notice.form.button.return = Volver

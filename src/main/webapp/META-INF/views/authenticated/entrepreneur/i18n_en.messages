@@ -1,0 +1,8 @@
+authenticated.entrepreneur.form.label.startupName = Start-up name
+authenticated.entrepreneur.form.label.sector = Sector
+authenticated.entrepreneur.form.label.qualificationRecord = Qualification record
+authenticated.entrepreneur.form.label.skillsRecord = Skills record
+
+authenticated.entrepreneur.form.button.submit = Submit
+authenticated.entrepreneur.form.button.update = Update
+authenticated.entrepreneur.form.button.return = <- Return

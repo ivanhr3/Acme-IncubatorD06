@@ -1,0 +1,10 @@
+entrepreneur.accountingrecord.list.label.creationDate = Fecha de creación
+entrepreneur.accountingrecord.list.label.title = Título
+entrepreneur.accountingrecord.list.label.status = Estado
+
+entrepreneur.accountingrecord.form.label.creationDate = Fecha de creación
+entrepreneur.accountingrecord.form.label.status = Estado
+entrepreneur.accountingrecord.form.label.title = Título
+entrepreneur.accountingrecord.form.label.body = Cuerpo
+
+entrepreneur.accountingrecord.form.button.return = <- Volver

@@ -1,0 +1,19 @@
+administrator.overture.form.label.title = Title
+administrator.overture.form.label.creationDate = Creation date
+administrator.overture.form.label.deadline = Deadline
+administrator.overture.form.label.paragraph = Paragraph
+administrator.overture.form.label.minimumMoney = Minimum money
+administrator.overture.form.label.maximumMoney = Maximum money
+administrator.overture.form.label.email = Email
+
+administrator.overture.list.label.title = Title
+administrator.overture.list.label.creationDate = Creation date 
+administrator.overture.list.label.deadline = Deadline
+
+administrator.overture.form.button.return = Return
+administrator.overture.form.button.submit = Submit
+administrator.overture.form.button.delete = Delete
+administrator.overture.form.button.update = Update
+
+acme.validation.deadline = Must be at least 1 month in future.
+ame.validation.money = Must be greater than 0 and currency must be EUR.

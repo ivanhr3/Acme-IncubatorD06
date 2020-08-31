@@ -1,0 +1,9 @@
+authenticated.message.form.label.title = Título
+authenticated.message.form.label.creationDate = Fecha de creación
+authenticated.message.form.label.tags = Etiquetas
+authenticated.message.form.label.body = Cuerpo
+
+authenticated.message.list.label.title = Título
+authenticated.message.list.label.creationDate = Fecha de creación
+
+authenticated.message.form.button.return = <- Volver

@@ -1,0 +1,12 @@
+anonymous.notice.list.label.title = Título
+anonymous.notice.list.label.creationDate = Fecha de creación
+anonymous.notice.list.label.deadline = Expira en
+
+anonymous.notice.form.label.headerPicture = Imagen del encabezado
+anonymous.notice.form.label.title = Título
+anonymous.notice.form.label.creationDate = Fecha de creación
+anonymous.notice.form.label.deadline = Expira en
+anonymous.notice.form.label.body = Cuerpo
+anonymous.notice.form.label.relatedNotices = Noticias relacionadas
+
+anonymous.notice.form.button.return = Volver

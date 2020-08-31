@@ -1,0 +1,18 @@
+investor.application.form.label.ticker = Ticker
+investor.application.form.label.creationDate = Fecha de creación
+investor.application.form.label.statement = Declaración
+investor.application.form.label.offer = Oferta
+investor.application.form.label.status = Estado
+
+investor.application.list.label.creationDate = Fecha de creación
+investor.application.list.label.offer = Oferta
+investor.application.list.label.status = Estado
+investor.application.form.label.justification = Justificación
+investor.application.form.label.status.accepted = Aceptado
+investor.application.form.label.status.rejected = Rechazado
+
+investor.application.form.button.create = Crear
+
+investor.application.form.button.return = <- Volver
+
+acme.error.ticker = El ticker debe ser único.

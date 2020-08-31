@@ -1,0 +1,12 @@
+authenticated.notice.list.label.title = Title
+authenticated.notice.list.label.creationDate = Creation date
+authenticated.notice.list.label.deadline = Deadline
+
+authenticated.notice.form.label.headerPicture = Header picture
+authenticated.notice.form.label.title = Title
+authenticated.notice.form.label.creationDate = Creation date
+authenticated.notice.form.label.deadline = Deadline
+authenticated.notice.form.label.body = Body
+authenticated.notice.form.label.relatedNotices = Related notices
+
+authenticated.notice.form.button.return = Volver

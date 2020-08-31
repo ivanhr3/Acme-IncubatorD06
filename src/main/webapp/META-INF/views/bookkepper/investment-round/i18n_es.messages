@@ -1,0 +1,15 @@
+bookkepper.investmentround.form.label.ticker = Ticker
+bookkepper.investmentround.form.label.creationDate = Fecha de creación
+bookkepper.investmentround.form.label.kindOfRound = Tipo de ronda
+bookkepper.investmentround.form.label.title = Título
+bookkepper.investmentround.form.label.description = Descripción
+bookkepper.investmentround.form.label.amount = Cantidad
+bookkepper.investmentround.form.label.additionalInfo = Información adicional
+
+bookkepper.investmentround.list.label.creationDate = Fecha de creación
+bookkepper.investmentround.list.label.title = Título
+bookkepper.investmentround.list.label.amount = Cantidad
+
+bookkepper.investmentround.form.button.accountingRecord = Registro de contabilidad
+bookkepper.investmentround.form.button.workProgramme = Programa de trabajo
+bookkepper.investmentround.form.button.return = <- Volver

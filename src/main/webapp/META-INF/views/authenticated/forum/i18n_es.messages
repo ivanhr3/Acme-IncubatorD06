@@ -1,0 +1,8 @@
+authenticated.forum.list.label.ticker = Ticker
+authenticated.forum.list.label.title = Título
+
+authenticated.forum.form.label.ticker = Ticker de la ronda de inversión
+authenticated.forum.form.label.title = Título de la ronda de inversión
+
+authenticated.forum.form.button.getmessages = Ver los mensajes
+authenticated.forum.form.button.return = <- Volver

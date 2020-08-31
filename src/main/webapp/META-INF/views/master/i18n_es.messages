@@ -1,0 +1,157 @@
+# i18n_es.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+# master.banner.welcome #######################################################
+
+master.banner.background = #FFE97F 
+
+﻿# master.welcome ##############################################################
+
+master.welcome.title = ¡Bienvenidos!
+master.welcome.text = \
+	Bienvenidos a Acme Stater!  Nunca antes ha sido tan sencillo desarrollar un \
+	proyecto y hacerlo funcionar.
+
+# master.menu #################################################################
+
+master.menu.home = Inicio
+master.menu.sign-up = Registrarse
+master.menu.sign-in = Entrar
+master.menu.sign-out = Salir
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous = Anónimo
+master.menu.anonymous.favourite-link = Enlace favorito de Iván
+master.menu.anonymous.listbulletins = Lista de boletines
+master.menu.anonymous.createbulletins = Crea un boletín
+master.menu.anonymous.listnotices = Lista de avisos
+master.menu.anonymous.listtechnologyrecords = Lista de registros tecnológicos
+master.menu.anonymous.listtoolrecords = Lista de registro de herramientas
+
+# master.menu.authenticated ###################################################
+
+master.menu.authenticated = Autenticado
+master.menu.authenticated.user-accounts = Cuentas de usuario
+master.menu.authenticated.listnotices = Lista de avisos
+master.menu.authenticated.listtechnologyrecords = Lista de registros tecnológicos
+master.menu.authenticated.listtoolrecords = Lista de registros de herramientas
+master.menu.authenticated.listinquires = Lista de peticiones
+master.menu.authenticated.listovertures = Lista de propuestas
+master.menu.authenticated.listchallenges = Lista de desafíos
+master.menu.authenticated.listinvestmentrounds = Lista de rondas de inversión
+master.menu.authenticated.listforums = Foros donde estoy involucrado
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrador
+master.menu.administrator.user-accounts = Cuentas de usuario
+master.menu.administrator.shutdown = Parar el sistema
+master.menu.administrator.listnotices = Lista de avisos
+master.menu.administrator.notices.create = Crea un aviso
+
+master.menu.administrator.customization = Personalización
+master.menu.administrator.listsectors = Lista de sectores
+master.menu.administrator.listspamlist = Lista de palabras spam
+master.menu.administrator.inquires.list = Lista de peticiones
+master.menu.administrator.inquires.create = Crea una petición
+master.menu.administrator.overtures.list = Lista de propuestas
+master.menu.administrator.overtures.create = Crea una propuesta
+master.menu.administrator.technologyrecords.list = Lista de registros tecnológicos
+master.menu.administrator.technologyrecords.create = Crea un registro tecnológico
+master.menu.administrator.toolrecords.list = Lista de registros de herramientas
+master.menu.administrator.toolrecords.create = Crea un registro de herramientas
+master.menu.administrator.challenges.list = Lista de desafíos
+master.menu.administrator.challenges.create = Crea un desafío
+
+# master.menu.entrepreneur ########################################################
+
+master.menu.entrepreneur = Empresario/a
+master.menu.entrepreneur.favourite-link = Enlace favorito
+master.menu.entrepreneur.listmyinvestmentrounds = Mis rondas de inversión
+master.menu.entrepreneur.listmyapplications = Aplicaciones a mis rondas de inversión
+master.menu.entrepreneur.investmentround.create = Crear una ronda de inversión
+master.menu.entrepreneur.listmyapplicationsbyticker = Aplicaciones a mis rondas de inversión agrupadas por ticker
+master.menu.entrepreneur.listmyapplicationsbydate = Aplicaciones a mis rondas de inversión agrupadas por fecha de creación
+
+# master.menu.bookkepper ########################################################
+
+master.menu.bookkepper = Contador/a
+master.menu.bookkepper.favourite-link = Enlace favorito
+master.menu.bookkepper.investmentround.listrec = Rondas de inversión con mis registros de contabilidad
+master.menu.bookkepper.investmentround.listnonrec = Rondas de inversión sin mis registros de contabilidad
+
+# master.menu.investor ########################################################
+
+master.menu.investor = Inversor/a
+master.menu.investor.favourite-link = Enlace favorito
+master.menu.investor.listmyapplications = Mis aplicaciones a rondas de inversión
+master.menu.investor.createapplications = Aplicar a una ronda de inversión
+
+
+# master.menu.provider ########################################################
+
+master.menu.provider = Proveedor
+master.menu.provider.favourite-link = Enlace favorito
+
+# master.menu.consumer ##########################################################
+
+master.menu.consumer = Consumidor
+master.menu.consumer.favourite-link = Enlace favorito
+
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Cuenta
+master.menu.user-account.general-data = Datos generales
+master.menu.user-account.provider = Datos de proveedor
+master.menu.user-account.become-provider = Hazte proveedor
+master.menu.user-account.consumer = Datos de consumidor
+master.menu.user-account.become-consumer = Hazte consumidor
+master.menu.user-account.become-entrepreneur = Hazte empresario
+master.menu.user-account.entrepreneur = Datos de empresario
+master.menu.user-account.become-investor = Hazte inversor
+master.menu.user-account.investor = Datos de inversor
+
+﻿# master.footer ###############################################################
+
+master.footer.title.about = Nosotros
+master.footer.label.company = La empresa
+master.footer.label.license = Licencia
+master.footer.title.social = Social
+master.footer.label.linked-in = Linked-In
+master.footer.label.twitter = Twitter
+master.footer.title.languages = Lenguages
+master.footer.label.english = Inglés
+master.footer.label.spanish = Español
+
+# master.company ##############################################################
+
+master.company.title = La compañía
+master.company.text = \
+	Starter Project, Inc. es una compañía fictícia que proporciona un proyecto \
+	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
+	en Ingeniería del Software de la Universidad de Sevilla.
+master.company.name = Starter Project, Inc.
+master.company.address = Calle, número, Ciudad, Estado, País
+master.company.phone = +000 123 456
+master.company.email = contact@acme.com
+
+# master.license ##############################################################
+
+master.license.title = Licencia
+master.license.text = \
+	Puede usar este sistema de forma completamente gratuita respetando las leyes \
+	que sean aplicables.  No compartimos ninguna información sobre Ud. con ninguna \
+	otra empresa.  Tan sólo usamos tres cookies, a saber: "JSESSIONID" para identificar \
+	su sesión de trabajo, "remember" para mantener su información de autentificación \
+	durante un máximo de 31 días y "language" para almacenar sus preferencias de \
+	lenguage.  Además, almacenamos un ítem llamado "returnStack" en el almacenamiento \
+	local de su navegador para saber dónde tienen que ir algunos botones.
+	

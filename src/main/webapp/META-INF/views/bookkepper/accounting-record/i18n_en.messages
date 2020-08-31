@@ -1,0 +1,10 @@
+bookkepper.accountingrecord.list.label.creationDate = Creation date
+bookkepper.accountingrecord.list.label.title = Title
+bookkepper.accountingrecord.list.label.status = Status
+
+bookkepper.accountingrecord.form.label.creationDate = Creation date
+bookkepper.accountingrecord.form.label.status = Status
+bookkepper.accountingrecord.form.label.title = Title
+bookkepper.accountingrecord.form.label.body = Body
+
+bookkepper.accountingrecord.form.button.return = <- Return

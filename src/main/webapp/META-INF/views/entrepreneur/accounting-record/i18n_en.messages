@@ -1,0 +1,10 @@
+entrepreneur.accountingrecord.list.label.creationDate = Creation date
+entrepreneur.accountingrecord.list.label.title = Title
+entrepreneur.accountingrecord.list.label.status = Status
+
+entrepreneur.accountingrecord.form.label.creationDate = Creation date
+entrepreneur.accountingrecord.form.label.status = Status
+entrepreneur.accountingrecord.form.label.title = Title
+entrepreneur.accountingrecord.form.label.body = Body
+
+entrepreneur.accountingrecord.form.button.return = <- Return

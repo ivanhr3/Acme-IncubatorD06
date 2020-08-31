@@ -1,0 +1,16 @@
+authenticated.investmentround.form.label.ticker = Ticker
+authenticated.investmentround.form.label.creationDate = Creation date
+authenticated.investmentround.form.label.kindOfRound = Kind of round
+authenticated.investmentround.form.label.title = Title
+authenticated.investmentround.form.label.description = Description
+authenticated.investmentround.form.label.amount = Amount
+authenticated.investmentround.form.label.additionalInfo = Additional info
+
+authenticated.investmentround.list.label.creationDate = Creation date
+authenticated.investmentround.list.label.title = Title
+authenticated.investmentround.list.label.amount = Amount
+
+authenticated.investmentround.form.button.accountingRecord = Accounting record
+authenticated.investmentround.form.button.workProgramme = Work Programme
+authenticated.investentround.form.button.application = Apply for it
+authenticated.investmentround.form.button.return = <- Return

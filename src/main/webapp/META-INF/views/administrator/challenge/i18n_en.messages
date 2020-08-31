@@ -1,0 +1,20 @@
+administrator.challenge.form.label.title = Title
+administrator.challenge.form.label.deadline = Deadline
+administrator.challenge.form.label.description = Description
+administrator.challenge.form.label.rookieGoal = Rookie goal
+administrator.challenge.form.label.averageGoal = Average goal
+administrator.challenge.form.label.expertGoal = Expert goal
+administrator.challenge.form.label.rookieReward = Rookie reward
+administrator.challenge.form.label.averageReward = Average reward
+administrator.challenge.form.label.expertReward = Expert reward
+
+administrator.challenge.list.label.title = Title
+administrator.challenge.list.label.deadline = Deadline
+
+administrator.challenge.form.button.return = Return
+administrator.challenge.form.button.submit = Submit
+administrator.challenge.form.button.delete = Delete
+administrator.challenge.form.button.update = Update
+
+acme.validation.deadline = Must be at least 1 month in future.
+acme.validation.money = Must be greater than 0 and currency must be EUR.

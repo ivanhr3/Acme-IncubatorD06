@@ -1,0 +1,30 @@
+entrepreneur.investmentround.form.label.ticker = Ticker
+entrepreneur.investmentround.form.label.creationDate = Fecha de creación
+entrepreneur.investmentround.form.label.kindOfRound = Tipo de ronda
+entrepreneur.investmentround.form.label.oldKindOfRound = Anterior tipo de ronda
+entrepreneur.investmentround.form.label.title = Título
+entrepreneur.investmentround.form.label.description = Descripción
+entrepreneur.investmentround.form.label.amount = Cantidad
+entrepreneur.investmentround.form.label.additionalInfo = Información adicional
+
+entrepreneur.investmentround.list.label.creationDate = Fecha de creación
+entrepreneur.investmentround.list.label.title = Título
+entrepreneur.investmentround.list.label.amount = Cantidad
+
+entrepreneur.investmentround.form.button.accountingRecord = Registro de contabilidad
+entrepreneur.investmentround.form.button.workProgramme = Programa de trabajo
+entrepreneur.investmentround.form.button.delete = Borrar
+entrepreneur.investmentround.form.button.update = Actualizar
+entrepreneur.investmentround.form.button.create = Crear
+entrepreneur.investmentround.form.button.return = <- Volver
+
+acme.errors.ticker = El ticker debe ser único.
+acme.validation.spam = Alerta de spam.
+acme.validation.money = Debe ser mayor que cero y en moneda EUR.
+
+entrepreneur.investmentround.form.label.kindOfRound.seed = Seed
+entrepreneur.investmentround.form.label.kindOfRound.angel = Angel
+entrepreneur.investmentround.form.label.kindOfRound.seriesa = Series-A
+entrepreneur.investmentround.form.label.kindOfRound.seriesb = Series-B
+entrepreneur.investmentround.form.label.kindOfRound.seriesc = Series-C
+entrepreneur.investmentround.form.label.kindOfRound.bridge = Bridge

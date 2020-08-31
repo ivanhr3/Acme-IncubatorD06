@@ -1,0 +1,13 @@
+authenticated.inquire.form.label.title = Título
+authenticated.inquire.form.label.creationDate = Fecha de creación
+authenticated.inquire.form.label.deadline = Expira en
+authenticated.inquire.form.label.paragraph = Párrafo
+authenticated.inquire.form.label.minimumMoney = Dinero mínimo
+authenticated.inquire.form.label.maximumMoney = Dinero máximo
+authenticated.inquire.form.label.email = Email
+
+authenticated.inquire.list.label.title  Título
+authenticated.inquire.list.label.creationDate = Fecha de creación
+authenticated.inquire.list.label.deadline = Expira en
+
+authenticated.inquire.form.button.return = Volver

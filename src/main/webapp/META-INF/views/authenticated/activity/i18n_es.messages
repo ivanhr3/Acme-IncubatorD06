@@ -1,0 +1,10 @@
+authenticated.activity.form.label.title = Título
+authenticated.activity.form.label.start = Empieza en
+authenticated.activity.form.label.end = Termina en
+authenticated.activity.form.label.budget = Presupuesto
+
+authenticated.activity.list.label.title = Título
+authenticated.activity.list.label.start = Empieza en
+authenticated.activity.list.label.end = Termina en
+
+authenticated.activity.form.button.return = <- Volver

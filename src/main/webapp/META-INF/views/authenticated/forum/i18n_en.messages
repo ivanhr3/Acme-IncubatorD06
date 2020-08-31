@@ -1,0 +1,8 @@
+authenticated.forum.list.label.ticker = Ticker
+authenticated.forum.list.label.title = Title
+
+authenticated.forum.form.label.ticker = Ticker of the investment round
+authenticated.forum.form.label.title = Title of the investment round
+
+authenticated.forum.form.button.getmessages = See the messages
+authenticated.forum.form.button.return = <- Return

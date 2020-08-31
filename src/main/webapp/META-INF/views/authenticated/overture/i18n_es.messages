@@ -1,0 +1,13 @@
+authenticated.overture.form.label.title = Título
+authenticated.overture.form.label.creationDate = Fecha de creación
+authenticated.overture.form.label.deadline = Expira en
+authenticated.overture.form.label.paragraph = Párrafo
+authenticated.overture.form.label.minimumMoney = Dinero mínimo
+authenticated.overture.form.label.maximumMoney = Dinero máximo
+authenticated.overture.form.label.email = Email
+
+authenticated.overture.list.label.title  Título
+authenticated.overture.list.label.creationDate = Fecha de creación
+authenticated.overture.list.label.deadline = Expira en
+
+authenticated.overture.form.button.return = Volver
