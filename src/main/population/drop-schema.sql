@@ -35,10 +35,6 @@
        drop 
        foreign key FK_j580su7lw16ga8ev628w7g33w;
 
-    alter table `consumer` 
-       drop 
-       foreign key FK_6cyha9f1wpj0dpbxrrjddrqed;
-
     alter table `entrepreneur` 
        drop 
        foreign key FK_r6tqltqvrlh1cyy8rsj5pev1q;
@@ -74,10 +70,6 @@
     alter table `notice_related_notices` 
        drop 
        foreign key `FKqc9an4dp5k6wuis8dyx289lg2`;
-
-    alter table `provider` 
-       drop 
-       foreign key FK_b1gwnjqm6ggy9yuiqm0o4rlmd;
 
     alter table `sector_technology_record` 
        drop 
@@ -123,8 +115,6 @@
 
     drop table if exists `challenge`;
 
-    drop table if exists `consumer`;
-
     drop table if exists `entrepreneur`;
 
     drop table if exists `forum`;
@@ -144,8 +134,6 @@
     drop table if exists `notice_related_notices`;
 
     drop table if exists `overture`;
-
-    drop table if exists `provider`;
 
     drop table if exists `sector`;
 
