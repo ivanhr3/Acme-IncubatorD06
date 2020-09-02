@@ -106,7 +106,6 @@
 			<acme:menu-suboption code="master.menu.investor.favourite-link" action="http://www.unity.com/es/learn"/>
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.investor.listmyapplications" action="/investor/application/list"/>
-			<acme:menu-suboption code="master.menu.investor.createapplications" action="/investor/application/create"/>
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.authenticated.listforums" action="/authenticated/forum/list"/>
 		</acme:menu-option>
